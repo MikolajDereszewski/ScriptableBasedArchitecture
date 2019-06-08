@@ -1,0 +1,10 @@
+{
+    "name": "ScriptableBasedArchitectureEditor",
+    "references": [
+        "ScriptableBasedArchitecture"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
